@@ -1,0 +1,24 @@
+
+#leiras {
+    padding: 35px;
+}
+h1, h2 {
+    color: indigo;
+    font-variant: small-caps;
+    text-shadow: 1px 1px white;
+}
+.kepkeret {
+    border: 2px solid darkblue;
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+ul {
+    margin-bottom: 25px;
+}
+
+body{
+    background-image: url(../forras/viztukor.png);
+}
